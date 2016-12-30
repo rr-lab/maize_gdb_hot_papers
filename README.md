@@ -1,7 +1,7 @@
 
- ##January 2017
+ ## January 2017
 
- ###Renny-Byfield, Rodgers-Melnick & Ross-Ibarra [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547)
+ ### Renny-Byfield, Rodgers-Melnick & Ross-Ibarra [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547)
 
 Genome duplication leading to different levels of ploidy is common among plants species. Maize is not an exception and around 10 million years ago experienced a whole genome duplication. Since then many paralogous genes have been lost and many returned to single copy status. This fractionation process has not been proportional in the two different subgenomes. Genes on the most fractionated subgenome tend to be lower expressed, probably by differences in TE accumulation and methylation levels.   Michael Freeling and collaborators proposed back in [2012](sciencedirect.com/science/article/pii/S1369526612000301) a model whereby higher expression of a gene in a paralog pair leads to higher protein accumulation and a ultimately a higher contrinution to phenotypes.  
 In this manuscript Renny-Byfield, Rodgers-Melnick & Ross-Ibarra use publicly available gene expression, phenotypic and epigenetic data to test this hypothesis.
