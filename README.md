@@ -1,5 +1,5 @@
 
- ### January 2017 (Ruben Rellan-Alvarez)
+ ### January 2017
 
  #### Renny-Byfield, Rodgers-Melnick & Ross-Ibarra [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547)
 
